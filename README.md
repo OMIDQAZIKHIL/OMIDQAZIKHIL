@@ -39,7 +39,7 @@ Go check it out — knowledge is for sharing! 🔗📖
 ## 📫 Connect With Me
 
 - 📧 Email me: **omid.qazikhil2020@gmail.com**  
-- 🔗 LinkedIn: [Omid Qazi Khil]([https://www.linkedin.com/in/omid-qazi-khil](https://www.linkedin.com/in/omid-qazi-khil-62956a27a/])  
+- 🔗 LinkedIn: [LinkedIn: Omid Qazi Khil](https://www.linkedin.com/in/omid-qazi-khil-62956a27a/)
 - 💻 GitHub: [OMIDQAZIKHIL](https://github.com/OMIDQAZIKHIL)  
 - 🤝 Always open for networking & collaborations!
 
