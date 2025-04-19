@@ -38,10 +38,11 @@ Go check it out — knowledge is for sharing! 🔗📖
 
 ## 📫 Connect With Me
 
-📧 [Email me](mailto:omid.qazikhil2020@gmail.com)  
-🔗 [LinkedIn: Omid Qazi Khil](https://www.linkedin.com/in/omid-qazi-khil-62956a27a/)  
-💻 [GitHub: OMIDQAZIKHIL](https://github.com/OMIDQAZIKHIL)  
-📱 [Facebook: Omid Qazi Khil](https://www.facebook.com/profile.php?id=100008686566453)
+📧 Email me: [omid.qazikhil2020@gmail.com](mailto:omid.qazikhil2020@gmail.com)  
+🔗 LinkedIn: [Omid Qazi Khil](https://www.linkedin.com/in/omid-qazi-khil-62956a27a/)  
+💻 GitHub: [OMIDQAZIKHIL](https://github.com/OMIDQAZIKHIL)  
+📱 Facebook: [Omid Qazi Khil](https://www.facebook.com/profile.php?id=100008686566453)
+
 - 🤝 Always open for networking & collaborations!
 
 ---
