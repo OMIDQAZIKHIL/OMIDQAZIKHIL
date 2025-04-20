@@ -60,7 +60,7 @@ Go check it out — knowledge is for sharing! 🔗📖
 📧 **Email me**: [omid.qazikhil2020@gmail.com](mailto:omid.qazikhil2020@gmail.com)  
 🔗 **LinkedIn**: [Omid Qazi Khil](https://www.linkedin.com/in/omid-qazi-khil/)  
 💻 **GitHub**: [OMIDQAZIKHIL](https://github.com/OMIDQAZIKHIL)  
-📱 **Facebook**: [Omid Qazi Khil](https://www.facebook.com/yourusername)
+📱 **Facebook**: [Omid Qazi Khil](https://www.facebook.com/Omid Himat Qazikhil)
 
 ---
 
