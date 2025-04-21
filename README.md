@@ -55,6 +55,13 @@ Go check it out — knowledge is for sharing! 🔗📖
 🛡️ **Love**: Cybersecurity, ethical hacking, phishing detection, and digital forensics 🔍
 
 ---
+If you enjoy my projects and want to support my development, you can buy me a coffee! ☕ Every little bit helps me stay motivated and continue creating.
+
+Support me on [Ko-fi](https://ko-fi.com/omidqazikhil)
+
+Thank you for your generosity and support! 🙏
+
+
 
 ## 📫 Connect With Me
 📧 **Email me**: [omid.qazikhil2020@gmail.com](mailto:omid.qazikhil2020@gmail.com)  
