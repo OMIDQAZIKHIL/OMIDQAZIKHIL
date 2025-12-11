@@ -1,18 +1,17 @@
 Hey👋 There, I'm Omid Qazi Khil  
-💻 Front-End Developer | 🌐 WordPress Designer (Divi Lover) | 🛡️ Cybersecurity Learner | 📝 Budding Researcher
+💻 Front-End Developer | 🛡️ Cybersecurity  | 🌐 Web Enthusiast | 📝 Research Explorer
 
 ---
 
 ## 🙋‍♂️ About Me
-I'm a 🎓 Computer Science student at Albukhary International University
 
-I love crafting websites with ✨ clean design and user-friendly layouts  
-Enjoy learning about 🕵️‍♂️ cybersecurity, ethical hacking & digital protection  
-Coding in Python 🐍, Java ☕, and C 🧠  
-📖 Currently working on my first research publication on “ML Mechanisms for the Identification of Phishing Attacks” 🔬🤖  
-You’ll also find me sharing 📚 Pashto & Cybersecurity books in one of my repos.  
-Go check it out — knowledge is for sharing! 🔗📖
+I'm a 🎓 Computer Science student at Albukhary International University with a strong focus on 🛡️ cybersecurity.
 
+Passionate about exploring ethical hacking, digital protection, and security research 🕵️‍♂️.
+I code in Python 🐍, Java ☕, and C 🧠 to build secure applications and understand the vulnerabilities they present.
+📖 Currently working on my research publication🔬🤖.
+
+I also share 📚 Pashto and cybersecurity resources in my repositories-knowledge is for sharing! 🔗
 ---
 
 ## 🌍 Social Media  
@@ -40,28 +39,21 @@ Go check it out — knowledge is for sharing! 🔗📖
 ---
 
 ## 🚀 What I'm Doing
-🌱 Learning Advanced Web Development, WordPress (especially Divi) & CyberSec  
-👨‍💻 Building personal projects with 💡 ideas that matter  
-📝 Researching and writing on machine learning for phishing attack detection  
-🤝 Looking to collaborate on cool open-source and tech-learning projects
 
+🌱 Deepening my knowledge in Cybersecurity, Ethical Hacking & Digital Protection 🛡️
+👨‍💻 Working on personal projects that explore security vulnerabilities and protection strategies 💡
+📝 Conducting research and writing on cybersecurity and emerging security technologies 🔬🤖
+🤝 Looking to collaborate on cybersecurity research and open-source security projects
 ---
 
 ## 🛠️ Tech & Tools I Use
-🌐 **Languages**: HTML5, CSS3, JavaScript, Python 🐍, Java ☕, C 💡  
-🛠️ **Tools**: VS Code 🎨, GitHub 🐙, Git 🔧, XAMPP 🧪  
-🧠 Also using: Sublime Text, Eclipse IDE, and PyCharm  
-📦 **CMS**: WordPress (Divi 🧩 Theme specialist!)  
-🛡️ **Love**: Cybersecurity, ethical hacking, phishing detection, and digital forensics 🔍
+
+🌐 Languages: HTML5, CSS3, JavaScript, Python 🐍, Java ☕, C 💡
+🛠️ Tools & IDEs: VS Code 🎨, GitHub 🐙, Git 🔧, XAMPP 🧪, Sublime Text, Eclipse IDE, PyCharm
+🛡️ Cybersecurity Focus: Ethical hacking, phishing detection, digital forensics, penetration testing 🔍
+💡 Other Interests: Web development, security research, and learning emerging tech
 
 ---
-If you enjoy my projects and want to support my development, you can buy me a coffee! ☕ Every little bit helps me stay motivated and continue creating.
-
-Support me on [Ko-fi](https://ko-fi.com/omidqazikhil)
-
-Thank you for your generosity and support! 🙏
-
-
 
 ## 📫 Connect With Me
 📧 **Email me**: [omid.qazikhil2020@gmail.com](mailto:omid.qazikhil2020@gmail.com)  
@@ -71,10 +63,11 @@ Thank you for your generosity and support! 🙏
 
 ---
 
-## ⚡ Fun Facts About Me
-🏏 Cricket & 🏐 Volleyball keep me active  
-🏃‍♂️ Gym + Running = Mind Refresh 💪  
-🧠 I'm always curious & love learning new tech every day  
+## ⚡🎉 Fun Facts About Me
 
-⭐ _If you find my work useful or cool, please give it a star — it helps and motivates me!_ 🌟  
-Let's grow and build cool things together! 🚀
+🏏 Cricket & 🏐 Volleyball keep me active
+🏃‍♂️ Gym & Running = Brain + Body Boost 💪
+🧠 Forever curious, always exploring new tech
+
+⭐ Love my work? Give it a star! It keeps me motivated 🌟
+Let’s create, learn, and grow together 🚀�
