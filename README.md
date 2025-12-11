@@ -1,6 +1,5 @@
 Hey👋 There, I'm Omid Qazi Khil  
-💻 Front-End Developer | 🛡️ Cybersecurity  | 🌐 Web Enthusiast | 📝 Research Explorer
-
+🛡️ Cybersecurity Enthusiast | 💻 Aspiring Penetration Tester | 🌐 Web & Front-End Developer | 📝 Research Explorer
 ---
 
 ## 🙋‍♂️ About Me
