@@ -1,5 +1,5 @@
-Hey👋 There, I'm Omid Qazi Khil  
-🛡️ Cybersecurity Enthusiast | 💻 Aspiring Penetration Tester | 🌐 Web & Front-End Developer | 📝 Research Explorer
+<p>Hey👋 There, I'm <b>Omid Qazi Khil</b>  <br>
+🛡️ Cybersecurity Enthusiast | 💻 Aspiring Penetration Tester | 🌐 Web & Front-End Developer | 📝 Research Explorer</p>
 ---
 
 ## 🙋‍♂️ About Me
@@ -10,7 +10,7 @@ Passionate about exploring ethical hacking, digital protection, and security res
 I code in Python 🐍, Java ☕, and C 🧠 to build secure applications and understand the vulnerabilities they present.
 📖 Currently working on my research publication🔬🤖.
 
-I also share 📚 Pashto and cybersecurity resources in my repositories-knowledge is for sharing! 🔗
+<p>I also share 📚 Pashto and cybersecurity resources in my repositories-knowledge is for sharing! 🔗</p>
 ---
 
 ## 🌍 Social Media  
@@ -36,13 +36,14 @@ I also share 📚 Pashto and cybersecurity resources in my repositories-knowledg
 
 
 ---
-
+<p>
 ## 🚀 What I'm Doing
 
 🌱 Deepening my knowledge in Cybersecurity, Ethical Hacking & Digital Protection 🛡️
 👨‍💻 Working on personal projects that explore security vulnerabilities and protection strategies 💡
 📝 Conducting research and writing on cybersecurity and emerging security technologies 🔬🤖
 🤝 Looking to collaborate on cybersecurity research and open-source security projects
+</p>
 ---
 
 ## 🛠️ Tech & Tools I Use
