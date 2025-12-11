@@ -48,10 +48,10 @@ I code in Python 🐍, Java ☕, and C 🧠 to build secure applications and und
 
 ## 🛠️ Tech & Tools I Use
 
-🌐 Languages: HTML5, CSS3, JavaScript, Python 🐍, Java ☕, C 💡
-🛠️ Tools & IDEs: VS Code 🎨, GitHub 🐙, Git 🔧, XAMPP 🧪, Sublime Text, Eclipse IDE, PyCharm
-🛡️ Cybersecurity Focus: Ethical hacking, phishing detection, digital forensics, penetration testing 🔍
-💡 Other Interests: Web development, security research, and learning emerging tech
+🛡️ Cybersecurity Focus: Ethical hacking, phishing detection, digital forensics, penetration testing 🔍 <br>
+🌐 Languages: HTML5, CSS3, JavaScript, Python 🐍, Java ☕, C 💡 <br>
+🛠️ Tools & IDEs: VS Code 🎨, GitHub 🐙, Git 🔧, XAMPP 🧪, Sublime Text, Eclipse IDE, PyCharm <br>
+💡 Other Interests: Web development, security research, and learning emerging tech <br>
 
 ---
 
